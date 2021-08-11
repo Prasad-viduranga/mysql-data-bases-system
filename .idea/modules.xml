@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1-hello-jdbc/1-hello-jdbc.iml" filepath="$PROJECT_DIR$/1-hello-jdbc/1-hello-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2-crud-operation/2-crud-operation.iml" filepath="$PROJECT_DIR$/2-crud-operation/2-crud-operation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3-standed-vs-prepared/3-standed-vs-prepared.iml" filepath="$PROJECT_DIR$/3-standed-vs-prepared/3-standed-vs-prepared.iml" />
+    </modules>
+  </component>
+</project>
